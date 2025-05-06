@@ -38,7 +38,7 @@ Sou um entusiasta da tecnologia e estudante apaixonado por **infraestrutura de r
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thiago-Maximo&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Maximo&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-  <img src="img/pixlr-image-generator-d3fbe9a2-b994-4c5c-8b28-89dff3cc4b2c.png" alt="Foto de Thiago Maximo" width="200" align="right"/>
+  <img src="img/pixlr-image-generator-d3fbe9a2-b994-4c5c-8b28-89dff3cc4b2c.png" alt="Foto de Thiago Maximo" width="130" align="right"/>
 </div>
 
 ---
