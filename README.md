@@ -1,51 +1,49 @@
-
-<!-------- Parte Inicial          !------>
+<!-- Parte Inicial -->
 # 👋 Olá, eu sou Thiago Maximo!
-
-<!--------
+<!-----
+<img src="img/pixlr-image-generator-d3fbe9a2-b994-4c5c-8b28-89dff3cc4b2c.png" alt="Foto de Thiago Maximo" width="160" />
+!---->
 Sou um entusiasta da tecnologia e estudante apaixonado por **infraestrutura de redes**, **desenvolvimento web** e **programação backend**. Atualmente, estou em busca de uma oportunidade de **estágio na área de Tecnologia da Informação**, onde eu possa aplicar meus conhecimentos e crescer profissionalmente.
-!--------->
+
 ---
-<!-------- Parte Do Meio  Apresentação    !------>
+
+<!-- Parte do Meio: Apresentação -->
 ## 💼 Sobre Mim
 
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** – FAM (Mooca)  
 🧑‍🎓 Técnico em Informática formado pelo **Senac Itaquera**  
-<!----🔍 Em busca de uma vaga de estágio para colocar meu aprendizado em prática !-->
 🚀 Apaixonado por tecnologia, redes e soluções criativas
 
 ---
-<!-------- Parte Do Meio Apresentação das Habilidades Tecnicas     !------>
-<!-----
-## 💻 Habilidades Técnicas
-- 💡 **Lógica de Programação** — Algoritmos e resolução de problemas
-- 🛠️ **Manutenção de Computadores** — Linux e Windows
-- 🌐 **HTML5 | CSS3 | Bootstrap 5** — Web responsiva
-- 🐘 **SQL / MySQL** — Consultas, procedures, triggers, modelagem
-- 🖥️ **C#** — Aplicações desktop (Windows Forms)
-- 🐘 **PHP** — Desenvolvimento backend
-- 🖧 **Administração de Redes** — Windows Server, Linux Debian
-- ⚙️ **Serviços de Rede** — Domínio, DNS, DHCP, arquivos
-- 🐳 **Docker (iniciante)** — Contêineres e ambientes isolados
-- 🔧 **Git & GitHub** — Versionamento e colaboração
 
-!-------->
+<!-- Parte do Meio: Habilidades Técnicas -->
+## 💻 Habilidades Técnicas
+
+- 💡 **Lógica de Programação** — Algoritmos e resolução de problemas  
+- 🛠️ **Manutenção de Computadores** — Linux e Windows  
+- 🌐 **HTML5 | CSS3 | Bootstrap 5** — Web responsiva  
+- 🐘 **SQL / MySQL** — Consultas, procedures, triggers, modelagem  
+- 🖥️ **C#** — Aplicações desktop (Windows Forms)  
+- 🐘 **PHP** — Desenvolvimento backend  
+- 🖧 **Administração de Redes** — Windows Server, Linux Debian  
+- ⚙️ **Serviços de Rede** — Domínio, DNS, DHCP, arquivos  
+- 🐳 **Docker (iniciante)** — Contêineres e ambientes isolados  
+- 🔧 **Git & GitHub** — Versionamento e colaboração  
+
 ---
 
-
-<!-------- Parte Do Grafico   !------>
+<!-- Parte dos Gráficos -->
 ## 📊 GitHub Stats
 
-![Thiago Maximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiago-Maximo&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Maximo&layout=compact&theme=tokyonight)
-### 🎨 Banner de Apresentação
-<img src="img/text-to-image.png" alt="Banner" width="200"/>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiago-Maximo&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Maximo&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="img/pixlr-image-generator-d3fbe9a2-b994-4c5c-8b28-89dff3cc4b2c.png" alt="Foto de Thiago Maximo" width="200" align="right"/>
+</div>
 
 ---
 
-<!--------Exibição das Ferramentas que sei utilizar    !------>
-
+<!-- Tecnologias e Ferramentas -->
 ## 🛠️ Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -60,20 +58,18 @@ Sou um entusiasta da tecnologia e estudante apaixonado por **infraestrutura de r
 
 ---
 
-<!-------- Parte Final dos Objetivos !------>
-
+<!-- Objetivos -->
 ## 🎯 Objetivos
 
 Atualmente estou focado em:
 
-- Aprimorar meus conhecimentos em **DevOps**, **Redes** e **Full-stack**
-- Participar de **projetos colaborativos**
-- Me tornar um profissional versátil e preparado para os desafios do mercado
+- Aprimorar meus conhecimentos em **DevOps**, **Redes** e **Full-stack**  
+- Participar de **projetos colaborativos**  
+- Me tornar um profissional versátil e preparado para os desafios do mercado  
 
 ---
 
-<!-------- Parte Dos Contatos!------>
-
+<!-- Contato -->
 ## 📫 Contato
 
 - ✉️ E-mail: thiagomaximo271@gmail.com  
