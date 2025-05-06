@@ -1,36 +1,50 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👨‍💻 Thiago Maximo
 
-Sou um entusiasta da tecnologia apaixonado por transformar ideias em soluções digitais. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software e contribuir para projetos que impactam positivamente a vida das pessoas.
+🎓 Técnico em Informática formado pelo Senac Itaquera e atualmente cursando **Análise e Desenvolvimento de Sistemas** na FAM - Mooca.
 
-## 🚀 Sobre Mim
-
-- 🎓 Estudante de [Seu Curso] na [Sua Instituição]
-- 💻 Desenvolvedor com interesse em **Python**, **JavaScript** e **C#**
-- 🌱 Atualmente aprendendo sobre **desenvolvimento web** e **ciência de dados**
-- 🤝 Aberto a colaborações em projetos de código aberto
-- 🎯 Objetivo: Tornar-me um desenvolvedor full-stack e contribuir para a comunidade tech
-
-## 🛠️ Tecnologias e Ferramentas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📈 GitHub Estatísticas
-
-![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-
-## 📫 Como me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Portfólio](https://seu-portfolio.com)
-- [E-mail](mailto:seuemail@exemplo.com)
+Sou apaixonado por tecnologia desde cedo e estou sempre em busca de novos conhecimentos. Estou procurando uma **vaga de estágio na área de Tecnologia da Informação** para aplicar meus aprendizados e crescer profissionalmente.
 
 ---
 
-> "A tecnologia move o mundo." – Steve Jobs
+## 🚀 Sobre Mim
+
+💡 Tenho 18 anos e sou fascinado pelo impacto que a tecnologia pode causar no mundo.  
+💼 Estou me aprofundando em programação, redes e desenvolvimento de software.  
+🧠 Tenho facilidade de aprendizado, boa comunicação e muita vontade de evoluir na área de TI.
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+- 🧮 **Lógica de Programação**
+- 💾 **Manutenção e instalação de sistemas operacionais (Linux e Windows)**
+- 🌐 **Desenvolvimento Web** com:
+  - HTML5
+  - CSS3
+  - Bootstrap 5
+- 🐘 **Banco de Dados**: SQL / MySQL
+- 🖥️ **Power BI** – análise e visualização de dados
+- 🖧 **Redes e Servidores**:
+  - Windows Server & Linux (Debian)
+  - DNS, DHCP, Domínio, Compartilhamento de Arquivos
+- 🔧 **Configuração e administração de ambientes de rede**
+- 🐳 Docker (em aprendizado)
+- 👨‍💻 Noções em **C#**, **PHP** e **DevOps**
+
+---
+
+## 📈 Objetivo
+
+Atuar como estagiário em uma empresa onde possa contribuir com meus conhecimentos, aprender com profissionais experientes e crescer na carreira como desenvolvedor **Full-Stack Júnior** ou **Administrador de Redes/Servidores**.
+
+---
+
+## 📫 Contato
+
+- 💼 GitHub: [Thiago-Maximo](https://github.com/Thiago-Maximo)
+- 📧 E-mail: *[adicione seu email aqui]*
+- 📍 Localização: São Paulo - SP
+
+---
+
+> “A tecnologia move o mundo – e eu quero fazer parte dessa transformação.” – Thiago Maximo
