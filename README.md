@@ -14,8 +14,6 @@ Sou um entusiasta da tecnologia e estudante apaixonado por **infraestrutura de r
 ---
 
 ## 💻 Habilidades Técnicas
-
-- 📊 **Power BI** — Relatórios e dashboards interativos
 - 💡 **Lógica de Programação** — Algoritmos e resolução de problemas
 - 🛠️ **Manutenção de Computadores** — Linux e Windows
 - 🌐 **HTML5 | CSS3 | Bootstrap 5** — Web responsiva
@@ -44,7 +42,6 @@ Sou um entusiasta da tecnologia e estudante apaixonado por **infraestrutura de r
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
