@@ -2,8 +2,9 @@
 <!-------- Parte Inicial          !------>
 # 👋 Olá, eu sou Thiago Maximo!
 
+<!--------
 Sou um entusiasta da tecnologia e estudante apaixonado por **infraestrutura de redes**, **desenvolvimento web** e **programação backend**. Atualmente, estou em busca de uma oportunidade de **estágio na área de Tecnologia da Informação**, onde eu possa aplicar meus conhecimentos e crescer profissionalmente.
-
+!--------->
 ---
 <!-------- Parte Do Meio  Apresentação    !------>
 ## 💼 Sobre Mim
@@ -15,6 +16,7 @@ Sou um entusiasta da tecnologia e estudante apaixonado por **infraestrutura de r
 
 ---
 <!-------- Parte Do Meio Apresentação das Habilidades Tecnicas     !------>
+<!-----
 ## 💻 Habilidades Técnicas
 - 💡 **Lógica de Programação** — Algoritmos e resolução de problemas
 - 🛠️ **Manutenção de Computadores** — Linux e Windows
@@ -27,6 +29,7 @@ Sou um entusiasta da tecnologia e estudante apaixonado por **infraestrutura de r
 - 🐳 **Docker (iniciante)** — Contêineres e ambientes isolados
 - 🔧 **Git & GitHub** — Versionamento e colaboração
 
+!-------->
 ---
 
 
