@@ -11,7 +11,7 @@ Sou um entusiasta da tecnologia e estudante apaixonado por **infraestrutura de r
 
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** – FAM (Mooca)  
 🧑‍🎓 Técnico em Informática formado pelo **Senac Itaquera**  
-🔍 Em busca de uma vaga de estágio para colocar meu aprendizado em prática  
+<!----🔍 Em busca de uma vaga de estágio para colocar meu aprendizado em prática !-->
 🚀 Apaixonado por tecnologia, redes e soluções criativas
 
 ---
