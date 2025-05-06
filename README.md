@@ -1,9 +1,11 @@
+
+<!-------- Parte Inicial          !------>
 # 👋 Olá, eu sou Thiago Maximo!
 
 Sou um entusiasta da tecnologia e estudante apaixonado por **infraestrutura de redes**, **desenvolvimento web** e **programação backend**. Atualmente, estou em busca de uma oportunidade de **estágio na área de Tecnologia da Informação**, onde eu possa aplicar meus conhecimentos e crescer profissionalmente.
 
 ---
-
+<!-------- Parte Do Meio  Apresentação    !------>
 ## 💼 Sobre Mim
 
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** – FAM (Mooca)  
@@ -12,7 +14,7 @@ Sou um entusiasta da tecnologia e estudante apaixonado por **infraestrutura de r
 🚀 Apaixonado por tecnologia, redes e soluções criativas
 
 ---
-
+<!-------- Parte Do Meio Apresentação das Habilidades Tecnicas     !------>
 ## 💻 Habilidades Técnicas
 - 💡 **Lógica de Programação** — Algoritmos e resolução de problemas
 - 🛠️ **Manutenção de Computadores** — Linux e Windows
@@ -27,12 +29,16 @@ Sou um entusiasta da tecnologia e estudante apaixonado por **infraestrutura de r
 
 ---
 
+
+<!-------- Parte Do Grafico   !------>
 ## 📊 GitHub Stats
 
 ![Thiago Maximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiago-Maximo&show_icons=true&theme=tokyonight&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Maximo&layout=compact&theme=tokyonight)
 
 ---
+
+<!--------Exibição das Ferramentas que sei utilizar    !------>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -48,6 +54,8 @@ Sou um entusiasta da tecnologia e estudante apaixonado por **infraestrutura de r
 
 ---
 
+<!-------- Parte Final dos Objetivos !------>
+
 ## 🎯 Objetivos
 
 Atualmente estou focado em:
@@ -57,6 +65,8 @@ Atualmente estou focado em:
 - Me tornar um profissional versátil e preparado para os desafios do mercado
 
 ---
+
+<!-------- Parte Dos Contatos!------>
 
 ## 📫 Contato
 
