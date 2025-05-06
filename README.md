@@ -1,50 +1,49 @@
-# 👨‍💻 Thiago Maximo
+# 👋 Olá, eu sou Thiago Maximo!
 
-🎓 Técnico em Informática formado pelo Senac Itaquera e atualmente cursando **Análise e Desenvolvimento de Sistemas** na FAM - Mooca.
+## 💻 Sobre Mim
 
-Sou apaixonado por tecnologia desde cedo e estou sempre em busca de novos conhecimentos. Estou procurando uma **vaga de estágio na área de Tecnologia da Informação** para aplicar meus aprendizados e crescer profissionalmente.
+🎓 Tenho 18 anos e estou cursando **Análise e Desenvolvimento de Sistemas** (ADS) na **FAM - Mooca**. Também concluí um **Curso Técnico em Informática** no **Senac Itaquera**.
 
----
-
-## 🚀 Sobre Mim
-
-💡 Tenho 18 anos e sou fascinado pelo impacto que a tecnologia pode causar no mundo.  
-💼 Estou me aprofundando em programação, redes e desenvolvimento de software.  
-🧠 Tenho facilidade de aprendizado, boa comunicação e muita vontade de evoluir na área de TI.
+Desde cedo, sou fascinado por tecnologia e sempre busquei me aprofundar em diversas áreas da **Tecnologia da Informação (TI)**. Estou em busca de uma **vaga de estágio** onde possa aplicar meus conhecimentos teóricos e crescer profissionalmente em um ambiente prático.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-- 🧮 **Lógica de Programação**
-- 💾 **Manutenção e instalação de sistemas operacionais (Linux e Windows)**
-- 🌐 **Desenvolvimento Web** com:
-  - HTML5
-  - CSS3
-  - Bootstrap 5
-- 🐘 **Banco de Dados**: SQL / MySQL
-- 🖥️ **Power BI** – análise e visualização de dados
-- 🖧 **Redes e Servidores**:
-  - Windows Server & Linux (Debian)
-  - DNS, DHCP, Domínio, Compartilhamento de Arquivos
-- 🔧 **Configuração e administração de ambientes de rede**
-- 🐳 Docker (em aprendizado)
-- 👨‍💻 Noções em **C#**, **PHP** e **DevOps**
+- 💻 **Lógica de Programação**  
+- 🌐 **Desenvolvimento Web**:  
+  - HTML5 | CSS3 | Bootstrap 5  
+- 🐘 **Banco de Dados**: MySQL | SQL  
+- 🔧 **Configuração e Administração de Redes**:  
+  - Windows Server | Linux (Debian)  
+  - DNS, DHCP, Domínio, Servidores de Arquivos  
+- 📊 **Power BI**  
+- 🐳 **Docker** (em aprendizado)  
+- 👨‍💻 **C#** | **PHP** | **DevOps** (Júnior)
 
 ---
 
-## 📈 Objetivo
+## 🚀 Objetivos
 
-Atuar como estagiário em uma empresa onde possa contribuir com meus conhecimentos, aprender com profissionais experientes e crescer na carreira como desenvolvedor **Full-Stack Júnior** ou **Administrador de Redes/Servidores**.
-
----
-
-## 📫 Contato
-
-- 💼 GitHub: [Thiago-Maximo](https://github.com/Thiago-Maximo)
-- 📧 E-mail: *[adicione seu email aqui]*
-- 📍 Localização: São Paulo - SP
+💡 **Aplicar meus conhecimentos** em **programação**, **redes** e **desenvolvimento de software** em uma **empresa inovadora** e **desafiante**.  
+🎯 **Aprender e crescer** como **Desenvolvedor Full-Stack Júnior** ou **Administrador de Redes/Servidores**.
 
 ---
 
-> “A tecnologia move o mundo – e eu quero fazer parte dessa transformação.” – Thiago Maximo
+## 📂 Links
+
+- 💼 [GitHub](https://github.com/Thiago-Maximo)  
+- ✉️ **E-mail**: [adicione seu email aqui]  
+- 🌍 Localização: São Paulo, SP
+
+---
+
+## ⚡ Fun Facts
+
+- 🤖 Sou apaixonado por aprender novas tecnologias e aplicar o que aprendo em projetos práticos.  
+- 🌱 Sempre estou buscando novos desafios e oportunidades de crescimento.  
+- 🧑‍🏫 Acredito que a troca de conhecimento é essencial para o meu desenvolvimento!
+
+---
+
+> “A tecnologia não é apenas o futuro, ela é o presente transformando o mundo. Eu quero fazer parte dessa transformação!” – Thiago Maximo
