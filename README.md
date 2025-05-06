@@ -38,6 +38,9 @@ Sou um entusiasta da tecnologia e estudante apaixonado por **infraestrutura de r
 
 ![Thiago Maximo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiago-Maximo&show_icons=true&theme=tokyonight&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Maximo&layout=compact&theme=tokyonight)
+### 🎨 Banner de Apresentação
+<img src="img/text-to-image.png" alt="Banner" width="200"/>
+
 
 ---
 
