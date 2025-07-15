@@ -73,7 +73,7 @@ Atualmente estou focado em:
 
 - ✉️ E-mail: thiagomaximo271@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/venha-conhecer-meu-perfil](https://linkedin.com/in/venha-conhecer-meu-perfil)  
-- 📁 Portfólio: [github.com/Thiago-Maximo](https://github.com/Thiago-Maximo)
+- 📁 Portfólio: [github.com/Thiago-Maximo](https://thiago-maximo.github.io/Portifolio/)
 
 ---
 
